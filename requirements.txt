@@ -1,0 +1,5 @@
+fastapi[standard]
+uvicorn
+pytesseract
+pillow
+pdf2image
